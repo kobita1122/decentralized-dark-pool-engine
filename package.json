@@ -1,0 +1,9 @@
+{
+  "name": "decentralized-dark-pool-engine",
+  "version": "1.0.0",
+  "description": "Commit-reveal dark pool for private order matching",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "ethers": "^6.10.0"
+  }
+}
